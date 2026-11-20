@@ -12,7 +12,11 @@ Bigger decisions are recorded as append-only Architecture Decision Records in `l
 
 ## Membership
 
-There is no progression path yet. Membership is private by default. When a second person contributes regularly, a maintainer path will be written here.
+Membership is private by default. The role ladder lives in ROLES.md:
+Owner (aashish254 only), Maintainers (Maintain on all repos), Contributors
+(Write on voite), Triage (Triage on voite). New members start at Read.
+Contributor → Maintainer comes after regular contributions, by owner invite.
+Owner is not a progression step — see ROLES.md.
 
 ## If the owner is unavailable
 
