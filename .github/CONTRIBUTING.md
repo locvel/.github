@@ -18,7 +18,20 @@ Thanks for helping. Locvel is open source, privacy-first, local-first software.
 
 ## AI-assisted contributions
 
-AI may assist, but you must understand and be able to explain every change in your own words. Do not submit pull requests created by autonomous agents, and do not paste AI-generated replies to maintainers. Say in the PR description if AI helped.
+**AI assistance is welcomed and encouraged!** Locvel was built with AI help, and we embrace it as a productivity tool. The requirement is simple: **understand, verify, and own your code.**
+
+- ✅ Use AI to accelerate your work (Copilot, Claude, GPT-4, Cursor, etc.)
+- ✅ Read and understand every line before submitting
+- ✅ Run and test everything locally — verify it actually works
+- ✅ Mention in your PR description that AI helped
+- ✅ Be able to explain your changes in your own words when maintainers ask
+
+What's not allowed:
+- ❌ Submitting PRs you haven't read or tested
+- ❌ Pasting AI responses when maintainers ask you questions
+- ❌ Autonomous bot contributions without human review
+
+**You own the code, not the AI.** If you can't explain why you made a change, don't submit it. See our full [AI Policy](AI_POLICY.md) for details and examples.
 
 ## Licence
 
